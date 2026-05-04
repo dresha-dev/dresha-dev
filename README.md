@@ -18,7 +18,7 @@
 
 - 🤖 Integrating AI into existing SaaS platforms (Staizen, remote)
 - ⚛️ Leading an ExtJS → React migration across a large legacy codebase
-- 🏗️ Building high-performance frontends with **Next.js 15**, **React**, **TypeScript**, **MUI**
+- 🏗️ Building high-performance frontends with **Next.js 15/16**, **React**, **TypeScript**, **MUI**, **Contentful**
 
 ---
 
