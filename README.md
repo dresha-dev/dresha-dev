@@ -62,11 +62,3 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins%20%7C%20Argo-orange?style=flat-square)
 
 ---
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dresha-dev&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dresha-dev&layout=compact&hide_border=true&theme=default" alt="Top languages" height="150"/>
-</p>
